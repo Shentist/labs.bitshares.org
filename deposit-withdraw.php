@@ -54,8 +54,8 @@ include 'inc/header.php';
 <div class="large-4 medium-4 small-12 columns outline text-center panel-download ">
 
 <img style="height: 48px;margin: 16px 0 24px 0;" src="../assets/images/exchanges/mx-logo.svg">
-<h5>Metaexchange</h5>
-<p><span class="label tiny awesome radius gray">BTC <i class=" size-12 fi-arrow-left"></i><i class=" size-12 fi-arrow-right"></i> BitBTC</span></p>
+<h5>MetaExchange</h5>
+<p><span class="label tiny awesome radius gray">BTC <i class=" size-12 fi-arrow-left"></i><i class=" size-12 fi-arrow-right"></i> BTS, BitBTC, BitUSD, BitCNY</span></p>
 
 </div>
 </a>
